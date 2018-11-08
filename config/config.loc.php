@@ -1,7 +1,7 @@
 <?php
 $config["name"] = $_SERVER['SERVER_NAME'];
 $config["url"] = "http://" . $_SERVER["HTTP_HOST"] . "/";
-$config['dir'] = "c:\wamp64/www/woncreative/";
+$config['dir'] = "c:\/s";
 $config['pages']['connected'] = [
   'dashboard' => ['pin' => 'ti-panel', 'name' => 'Dashboard'],
   'pages' => ['pin' => 'ti-layers-alt', 'name' => 'Pages'],
