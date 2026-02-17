@@ -83,5 +83,3 @@ Pour créer votre propre module :
 4.  Définissez vos méthodes (ex: `index()`, `article()`).
 5.  Créez les vues correspondantes dans le dossier `views`.
 6.  Accédez à votre module via l'URL (par exemple `votre-site.com/blog/index`), le routeur s'occupera du reste.
-
-Voici l'architecture clé du projet :
