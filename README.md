@@ -10,8 +10,7 @@ Bienvenue sur **Wonmii**, une application web construite sur un mini-framework P
 - [Structure du projet](#structure-du-projet)
 - [Fonctionnalités du framework](#fonctionnalités-du-framework)
 - [Personnalisation](#personnalisation)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
+
 
 ## 🚀 Aperçu
 
