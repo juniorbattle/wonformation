@@ -1,6 +1,6 @@
-# Wonmii - Mini Framework PHP Custom
+# wonformation - Mini Framework PHP Custom
 
-Bienvenue sur **Wonmii**, une application web construite sur un mini-framework PHP développé sur mesure. Ce projet a pour but de démontrer une architecture MVC (Modèle-Vue-Contrôleur) modulaire et l'implémentation des principes de base d'un framework.
+Bienvenue sur **wonformation**, une application web construite sur un mini-framework PHP développé sur mesure. Ce projet a pour but de démontrer une architecture MVC (Modèle-Vue-Contrôleur) modulaire et l'implémentation des principes de base d'un framework.
 
 ## 📋 Table des matières
 
